@@ -1,4 +1,4 @@
-# venture-capital-firms-list
+# Venture Capital Firms List
 List of Venture Capital firms <a href="http://projectstartups.com">projectstartups.com</a>
 <ul>
   <li><strong>Bain Capital Ventures:-</strong> Bain Capital Ventures invests in seed to growth-stage startups that are using tech to disrupt existing markets or create entirely new ones. </li><br>
