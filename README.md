@@ -301,6 +301,8 @@ List of Venture Capital firms <a href="http://projectstartups.com">projectstartu
 <li><strong>Rethink Education:-</strong> Rethink Education is a venture capital fund focused exclusively on education technology that invests in early- and growth-stage start-ups</li><br>
 <li><strong>NeoStencil:-</strong> NeoStencil is a managed online education marketplace in the form of a one-stop test preparation platform for India’s most coveted jobs.</li><br>
 <li><strong>Cisco Investments:-</strong> Cisco Investments offers direct and fund of funds investments.</li><br>
+<li><strong>Prithvi Ventures:-</strong> New York seed fund backing Energy, deeptech, hardware, infrastructure and supply chain founders. <a href="https://prithvivc.com">prithvivc.com</a></li><br>
+<li><strong>Ayuh Ventures:-</strong> New York early-stage fund backing healthcare, neuroscience and medtech founders. <a href="https://ayuhvc.com">ayuhvc.com</a></li><br>
 
   </ul>
   
